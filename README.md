@@ -35,6 +35,8 @@ yalc add treblle-express
 ## Install project dependencies
 pnpm install
 
+## Create a .env file and add the `PROJECT_ID` and `API_KEY`
+
 ## Run the project
 pnpm run dev
 ```
