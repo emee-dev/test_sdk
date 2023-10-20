@@ -1,7 +1,7 @@
 {
-  "name": "PaidTuition Africa",
+  "name": "test_sdk",
   "version": "0.0.0",
-  "description": "The best payment management system for universities and colleges.",
+  "description": "A sample project for the treblle-express sdk",
   "main": "./build/server.js",
   "scripts": {
     "build": "tsc --project ./",
