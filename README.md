@@ -1,4 +1,4 @@
-This project uses the TreblleExpress sdk from [https://github.com/emee-dev/treblle_express](https://github.com/emee-dev/treblle_express)
+This project uses the TreblleExpress sdk from [https://github.com/emee-dev/treblle_express](https://github.com/emee-dev/treblle_express) more documentation at [https://treblle-express-docs.vercel.app/](https://treblle-express-docs.vercel.app/)
 
 ## Build the treblle sdk
 
