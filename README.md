@@ -1,4 +1,4 @@
-This project uses the TreblleExpress sdk from [https://github.com/emee-dev/treblle_express](https://github.com/emee-dev/treblle_express) 
+This project uses the treblle-express sdk from [https://github.com/emee-dev/treblle_express](https://github.com/emee-dev/treblle_express) 
 
 ## Build the treblle sdk
 
@@ -22,6 +22,7 @@ yalc publish
 ```
 
 ### Use the sdk locally in this sample project
+- I have not published this package on npm yet so am using yalc to deploy locally
 
 ```bash
 ## git clone the sample project
@@ -29,7 +30,7 @@ git clone https://github.com/emee-dev/test_sdk
 
 cd test_sdk
 
-## Install the sdk into this project
+## Install the sdk into this project using yalc
 yalc add treblle-express
 
 ## Install project dependencies
@@ -41,5 +42,5 @@ pnpm install
 pnpm run dev
 ```
 
-### Sdk documentation 
-More documentation will be found at [https://treblle-express-docs.vercel.app/](https://treblle-express-docs.vercel.app/)
+### SDK documentation 
+More documentation of the SDK will be found at [Documentation](https://treblle-express-docs.vercel.app/)
